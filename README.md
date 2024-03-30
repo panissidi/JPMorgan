@@ -1,1 +1,3 @@
-# JPMorgan
+# About this repository
+
+This repository contains samples of work from my time at JP Morgan, which hired me as a full-time technical writer for a then-new team that sought to document the big bank's payments technology...
