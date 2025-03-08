@@ -1,4 +1,4 @@
-#REST API documentation
+# REST API documentation
 
 I wrote the following documentation for V2 of J.P. Morgan's Global Payments API:
 * [ACH](https://developer.payments.jpmorgan.com/docs/treasury/global-payments/capabilities/global-payments-2/ach)
